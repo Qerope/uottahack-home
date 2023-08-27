@@ -33,6 +33,10 @@ class App extends Component {
           subtitle: ""
         },
         {
+          sectionName: "Our Sponsors",
+          subtitle: ""
+        },
+        {
           sectionName: "Past Sponsors",
           subtitle: ""
         },
